@@ -1,1 +1,3 @@
 I am A.txt
+
+lwt2 modify A file.
